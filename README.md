@@ -25,3 +25,15 @@
    ```bash
    javac MonsterSlayer.java
    java MonsterSlayer
+
+## 📸 Screenshots
+Here are some screenshots of the game in action:
+
+### 🏁 World 1 + Enemies
+![World 1 + Enemies](screens/MS1.jpg)
+
+### 🚗 Health Bar + Zombies
+![Health Bar + Zombies](screens/MS2.jpg)
+
+### 🏆 Porting Room
+![Porting Room](screens/MS3.jpg)
