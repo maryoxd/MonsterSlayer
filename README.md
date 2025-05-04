@@ -29,11 +29,18 @@
 ## 📸 Screenshots
 Here are some screenshots of the game in action:
 
-### 🏁 World 1 + Enemies
-![World 1 + Enemies](screens/MS1.jpg)
+<p align="center">
+  <img src="screens/MS1.jpg" width="600">
+</p>
+<h3 align="center">🏁 World 1 + Enemies</h3>
 
-### 🚗 Health Bar + Zombies
-![Health Bar + Zombies](screens/MS2.jpg)
+<p align="center">
+  <img src="screens/MS2.jpg" width="600">
+</p>
+<h3 align="center">🚗 Health Bar + Zombies</h3>
 
-### 🏆 Porting Room
-![Porting Room](screens/MS3.jpg)
+<p align="center">
+  <img src="screens/MS3.jpg" width="600">
+</p>
+<h3 align="center">🏆 Porting Room</h3>
+
